@@ -1,4 +1,4 @@
 # movie-db
-#### My first training project. Javascript removed advertising and edited the list of viewed movies. ####
+#### Мой первый учебный проект. Javascript удаляет рекламу и даёт возможность редактировать список просмотренных фильмов. ####
 [Movie-db](https://alex-0111.github.io/movie-db/) - gh-page
-![resultImg](/img/result.jpg)  
+![resultImg](movie-db/img/result.jpg)  
